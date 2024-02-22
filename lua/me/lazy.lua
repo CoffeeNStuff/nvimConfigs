@@ -20,8 +20,10 @@ require("lazy").setup({
 		end,
 	}, 
 	{ 
-		dir = "~/Projs/Noter", 
-		lazy = false
+		"https://github.com/CoffeeNStuff/Noter", 
+	},  
+	{ 
+		"https://github.com/xiyaowong/transparent.nvim", 
 	},  
 	{ 
 		"https://github.com/rxi/json.lua" 
