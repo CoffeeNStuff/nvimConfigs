@@ -1,5 +1,5 @@
 | Book of Causes, Aquinas
-|| 1 - 18 Causal Dependency
+|| Causal Dependency 1 - 18
 	- A cause is greater the more fundumental it is, shows through formal cause 
 	- A primary (more remote) cause can act independent of its poseterior (more
 	  proximate) causes
@@ -9,12 +9,104 @@
 	  the object is caused by the first as the first cause is the objects ultimate
 	  origin
 	- the remote cause is greater by the proximate 
-	- the dependence of the second on the first shows a need for the first to
-	  contiually cause, since power in the second is given only by recieving it must
-	  continually recieve to continually give, else it would have none more to give
-	  (premise 17) 
+		- the dependence of the second on the first shows a need for the first to
+		  contiually cause, since power in the second is given only by recieving it must
+		  continually recieve to continually give, else it would have none more to give
+		  (premise 17) 
+		- since finite being is given to be sustained a thing must continually be given
 	- Aquinas applies Proculus' principle to formal, material (33-36), efficent 
 	  (34-38 ), and final (39 - 42)
-	- all causes are per se ordered twoards God but per accidens ordered to their
-	  respective proximate objects 
+		- all causes are per se ordered twoards God but per accidens ordered to their
+		  respective proximate objects 
 || 19 - 26
+
+| De Primo Principio, Duns Scotus 
+|| Division essentially ordered series 
+	- order is to be taken as priority and posteriority
+
+- Essential orders
+ - Emminence
+ - Dependence
+  - from a third, common cause	
+	- the posterior flowing proximatly through the prior
+	- the prior flowing immediately from the common yet essentially after the prior ?
+  - the posterior from the prior
+	- final
+  	- efficient
+	- material
+	- formal 
+
+||| First Division, Eminence & Dependency 1.6
+	- Eminency
+		- priority in form 
+		- act as prior to potency
+	
+	- Dependency 
+		- the prior can exist without the posterior but not the converse 
+		- called priority of substance and species, called merely depedency
+
+||| Second Division, Causal Dependency 1.9 
+	- further division of dependency
+	- A posterior can either be cause by its prior or both be caused by a third thing,
+	  the prior more proximatly and the posterior more remotely
+		- cause from the posterior 
+			- must be related 
+
+		- cause from a third, common cause 
+			- when a subject has a dual effect and the second depends on the first 
+			- the creation a subject e.g. matter and  its qualities e.g. shape
+			- two proofs of essential order, firstly the aforsaid maxim and secondly
+			  that the remoter i.e. posterior relies on the proximate for the act
+			  supplied by the source 
+
+||| Third Division 1.13
+	- subdivision of both of subdivisions
+
+	- subdivision of third, common cause
+		- A (e.g. shape) is said to be posterior to B (e.g. matter) if A is in no way
+		  the cause of B yet share common causallity with A yet more proximatly than B
+		- 
+
+	- the posterior from the prior 
+		- final, efficient, material, & formal
+|| Analysis of Division 
+||| Three Conclusions against self-causation
+	- Nothing is essentially ordered to itself 2.2
+		- nothing can be more emminent than itself
+		- as for dependency, nothing can depedn on itself
+		- both cases lead to the concurrent existence and non-existence of a thing 
+
+	- An essential order can't be cirular 2.4
+		- contained in the first conclusion 
+		- would lead to a member being both the prior and posterior of another
+		
+	- What is subsequent to a posterior is subsequent to the prior 2.6
+		- posterior relies on the prior for causality 
+
+||| Six Conclusions Concerning The Cause and its Effect's Relations 
+	- Whatever is not ordered to an end is not an effect 2.9
+		- All effects have an efficient cause, whatever has efficient cause has final cause
+		
+		- The Minor can be proved by the intentionality of all intellectual agents and
+		  also of non-intellectual agents as proven by Aristotle 
+
+		- It can also be proven by the primacy of final causality
+			- final causality does not depend on anyother cause
+				- matter depends upon final, final on efficient, &c. 
+
+			- efficient causality depends on final causality, as an efficient cause
+			  forms matter according to the cause's end 
+
+	- Whatever is not an effect is not ordered to an end 2.14 
+		- final cause demands a member essentially prior to efficiently cause,
+		  therefore the uncreated is not ordered to another 
+		- the end of a thing is not always identical to its last operation or the
+		  object thereof
+
+
+| Christus Alpha Et Omega
+	- Christ is final cause of all things
+		- prior sit omnibus creaturis ... praedestinatus [et] inetntionis ... Est causa
+		  finalis creationis Christus 
+	 	- colossians 2:12-20, "All things were created for him"
+
